@@ -1,6 +1,6 @@
 export const HeroSection = () => {
 	return (
-		<section className="snap-start border-b-4 border-black h-screen bg-bright-green flex flex-col p-7 justify-center items-center gap-3">
+		<section className="border-b-4 border-black h-screen bg-bright-green flex flex-col p-7 justify-center items-center gap-3">
 			<h1 className="text-7xl">Hi! I am your friendly</h1>
 			<h1 className="text-7xl">nighborhood coding buddy</h1>
 			<div className="flex flex-col justify-center items-center">

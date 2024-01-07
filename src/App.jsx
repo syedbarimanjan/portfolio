@@ -3,7 +3,7 @@ import { AboutSection, Footer, HeroSection, MyTechSection, Nav, ProjectsSection 
 
 const App = () => {
   return (
-    <div className="bg-bgg snap-y snap-proximity overflow-y-scroll h-screen">
+    <div className="bg-bgg">
       <Nav />
       <HeroSection />
       <AboutSection />

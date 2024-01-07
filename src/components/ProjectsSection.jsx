@@ -1,6 +1,6 @@
 export const ProjectsSection = () => {
 	return (
-		<section className="snap-start h-screen border-b-4 border-black  p-7 flex flex-col bg-bright-yellow items-center gap-11">
+		<section className="h-screen border-b-4 border-black  p-7 flex flex-col bg-bright-yellow items-center gap-11">
 			<div className="flex flex-col gap-3 items-center">
 				<h1 className="text-3xl">Projects</h1>
 				<p>A suite of side projects which I am very proud of</p>

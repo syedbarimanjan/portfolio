@@ -7,7 +7,7 @@ import expressLogo from "../assets/express-js-seeklogo.com.svg";
 
 export const MyTechSection = () => {
   return (
-    <section className="snap-start flex p-32 gap-11 border-b-4 border-black bg-bright-purple justify-center items-center">
+    <section className="flex p-32 gap-11 border-b-4 border-black bg-bright-purple justify-center items-center">
         <div>
             <h1 className="text-3xl">Tech I'm</h1>
             <h1 className="text-3xl">enthusiastic about</h1>

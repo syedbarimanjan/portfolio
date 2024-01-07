@@ -1,9 +1,9 @@
 
 export const AboutSection = () => {
 	return (
-		<section className="snap-start flex h-screen gap-7 p-7 border-b-4 border-black ">
-			<div className="flex flex-col gap-3">
-				<h1>About Myself</h1>
+		<section className="flex h-screen gap-7 p-7 border-b-4 border-black justify-center items-center">
+			<div className="flex flex-col gap-3 w-96">
+				<h1 className="text-5xl">About Myself</h1>
 				<p>
 					3+ years of developing, strategizing and delivering cutting
 					edge solutions within deadline. Optimizing, migrating and
@@ -20,7 +20,7 @@ export const AboutSection = () => {
 				<button className="shadow-dark-shadow bg-bright-pink border-4 border-black px-5 py-3">View Resume</button>
 			</div>
 			<div className="shadow-dark-shadow-l border-4 border-black">
-                <img src="/myPic.JPG" alt="" />
+                <img src="/myPic.png" alt="" />
             </div>
 		</section>
 	);
